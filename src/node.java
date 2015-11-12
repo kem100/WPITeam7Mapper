@@ -1,8 +1,8 @@
 
 public class node {
   
-  private String name;
-	private Neighbour adjList;
+  	private String name;
+  	private Neighbour adjList;
 	
 	//constructor for the Node(location)
 	//takes in a String representing the locations name and a List of Adjacent locations
